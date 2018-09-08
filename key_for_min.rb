@@ -3,5 +3,8 @@
 
 def key_for_min_value(name_hash)
 num = nil
-name = nil 
+name = nil
+name_hash.each do |x, i|
+
+end
 end
