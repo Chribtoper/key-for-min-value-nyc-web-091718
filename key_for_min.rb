@@ -3,8 +3,8 @@
 
 def key_for_min_value(name_hash)
 num = nil
-name = nil
-name_hash.each do |x, i|
-
-end
+final_name = nil
+name_hash.collect do |name, i|
+  
+  end
 end
