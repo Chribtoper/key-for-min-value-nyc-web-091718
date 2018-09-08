@@ -10,5 +10,7 @@ while i < name_hash.length
     number = name_hash[i][0]
     name = name_hash[i]
   end
-  name 
+  i+=1
+end
+name 
 end
