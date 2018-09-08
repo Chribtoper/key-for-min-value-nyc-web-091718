@@ -9,5 +9,6 @@ name_hash.collect do |name, i|
     final_name = name
     num = i 
   end
+end
   final_name
 end
